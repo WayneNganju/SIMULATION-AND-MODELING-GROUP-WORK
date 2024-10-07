@@ -5,10 +5,16 @@
 This project simulates handling customers arriving at a service system with random arrival and service times. It calculates various metrics for each customer, such as their waiting time in the queue and system and the server's idle time. The results are displayed on the console and saved to a CSV file for further analysis.
 
 We did the Project as a Group and below is a list of our group members:
+
 146832 - Nganju Wayne Githaiga
+
 152509 - Samuel Wangui
+
 136007 - Njoroge Dorine Wairimu
+
 147771 - Sajjabi Danette
+
+149901 - Rahab Khisa
 
 
 

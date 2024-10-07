@@ -2,7 +2,16 @@
 
 # Queue Simulation with CSV Export
 
-This project simulates the process of handling customers arriving at a service system with random arrival and service times. It calculates various metrics for each customer, such as their waiting time in the queue and system, as well as the server's idle time. The results are displayed both on the console and saved to a CSV file for further analysis.
+This project simulates handling customers arriving at a service system with random arrival and service times. It calculates various metrics for each customer, such as their waiting time in the queue and system and the server's idle time. The results are displayed on the console and saved to a CSV file for further analysis.
+
+We did the Project as a Group and below is a list of our group members:
+146832 - Nganju Wayne Githaiga
+152509 - Samuel Wangui
+136007 - Njoroge Dorine Wairimu
+147771 - Sajjabi Danette
+
+
+
 
 ## Features
 
@@ -68,10 +77,3 @@ Customer,Arrival Time,Service Time,Inter-arrival,Clock Time,Num in System,Num in
 ```
 
 Each row in the CSV file corresponds to one customer, providing the simulation data described above.
-
-## Future Improvements
-
-- Add more flexibility by allowing users to change the number of customers and time distributions via command-line arguments or a configuration file.
-- Include visualization tools to analyze system performance (e.g., plotting queue lengths over time).
-
----
